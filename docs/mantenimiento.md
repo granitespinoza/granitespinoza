@@ -44,3 +44,5 @@ Preferencia del usuario (2026-10-05): portada de LinkedIn más modesta y profesi
 - No renombrar, archivar ni eliminar versiones antes de contrastar su contenido y dependencias. Próximo orden: escoger versión canónica del tutor y reunir evidencia visual verificable de los dos frontends.
 - Preferencia persistente del usuario: no activar «Notificar a tu red» ni crear publicaciones de actualización.
 - Destacados de LinkedIn: falló la carga de vista previa tanto del perfil GitHub como del repositorio de perfil; Guardar permaneció deshabilitado. No se creó la tarjeta.
+
+GitHub añadido y verificado como sitio web de tipo Cartera en la información de contacto de LinkedIn. No se activó Notificar a tu red ni se creó una publicación. La biografía lateral y los pins siguen pendientes de inicio de sesión del usuario en el navegador de GitHub; se dejó abierta la pantalla de acceso.
