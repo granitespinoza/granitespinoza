@@ -46,3 +46,11 @@ Preferencia del usuario (2026-10-05): portada de LinkedIn más modesta y profesi
 - Destacados de LinkedIn: falló la carga de vista previa tanto del perfil GitHub como del repositorio de perfil; Guardar permaneció deshabilitado. No se creó la tarjeta.
 
 GitHub añadido y verificado como sitio web de tipo Cartera en la información de contacto de LinkedIn. No se activó Notificar a tu red ni se creó una publicación. La biografía lateral y los pins siguen pendientes de inicio de sesión del usuario en el navegador de GitHub; se dejó abierta la pantalla de acceso.
+
+## Cierre de ajustes del perfil GitHub
+
+2026-10-05: sesión web de granitespinoza verificada. Biografía lateral guardada: «Software Engineer | Full-stack, SaaS & Digital Health | CTO & Co-Founder at Psicogni | Computer Science @ UTEC». Enlace social a LinkedIn guardado. Pins seleccionados y ordenados: UTECdiagram, django-quality-demo, tutor-ai-final-v-2-4-5. Se comprobó visualmente el estado y el aviso Order updated. Quedan resueltos los pendientes anteriores de biografía y pins; no se ampliaron los permisos del CLI.
+
+Pendiente de plataforma: la tarjeta Destacados de LinkedIn no se guardó por fallo de su vista previa. GitHub sí está guardado como Cartera en contacto. La opción Notificar a tu red no fue activada; no se crearon publicaciones. No se ejecutaron pruebas de las aplicaciones durante esta mejora de presentación.
+
+Modelo/esfuerzo activo: no expuesto. Siguiente incremento recomendado: revisar ejecución y demos de los proyectos antes de ampliar el portafolio; esfuerzo medio para documentación, alto para corregir contratos entre frontend y backend.
