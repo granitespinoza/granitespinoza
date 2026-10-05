@@ -18,7 +18,7 @@ TypeScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, Drizzle ORM, S
 
 - [UTEC Diagram](https://github.com/granitespinoza/UTECdiagram): proyecto de hackathon de Cloud Computing con frontend React y TypeScript.
 - [Django Quality Demo](https://github.com/granitespinoza/django-quality-demo): demostración de pruebas y calidad con Django, pytest, coverage, SonarQube y Docker.
-- [Cine Frontend](https://github.com/granitespinoza/frontend): frontend de CS2032 para S3 y consumo de microservicios.
+- [Tutor educativo de escritura](https://github.com/granitespinoza/tutor-ai-final-v-2-4-5): prototipo de frontend React y TypeScript con paneles de alumno y docente y datos simulados.
 
 Estos ejemplos académicos y de demostración complementan mi experiencia profesional.
 

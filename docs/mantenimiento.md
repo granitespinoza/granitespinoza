@@ -33,3 +33,14 @@ Entrada anterior: sin bio ni README de perfil; repositorio granitespinoza/granit
 README público publicado en granitespinoza/granitespinoza y comprobado visualmente en el perfil. Portada original aplicada a LinkedIn; margen de texto aumentado tras revisar la vista móvil. Descripciones de UTECdiagram y django-quality-demo actualizadas. La biografía lateral y el enlace de GitHub siguen pendientes: la conexión CLI no tiene scope user (PATCH /user rechazado). No se amplió el permiso. La selección de repositorios fijados y Destacados en LinkedIn queda pendiente.
 
 Preferencia del usuario (2026-10-05): portada de LinkedIn más modesta y profesional. Se sustituyó la portada tipográfica por un fondo original azul/gris sin texto ni diagramas, assets/linkedin-cover-modest.png. Es una imagen generada; el generador Python conserva la variante anterior y no reproduce esta imagen. El banner de GitHub no cambia.
+
+## Segunda mejora — proyectos y enlaces
+
+- README de UTECdiagram ampliado con flujo, estructura, endpoints y dos desajustes de integración identificados por lectura del código.
+- README del tutor educativo sustituido por documentación de prototipo con datos simulados; no se atribuye una integración real de IA o Google Classroom.
+- README de django-quality-demo conserva la guía original y añade un resumen, referencias de observabilidad y una aclaración sobre los placeholders del workflow.
+- El perfil reemplaza Cine Frontend por el tutor educativo: frontend solo contiene configuración y no el código de la aplicación.
+- Los tres README remotos se compararon byte a byte con los documentos preparados; coincidieron. No se afirma build, lint o cobertura ejecutados.
+- No renombrar, archivar ni eliminar versiones antes de contrastar su contenido y dependencias. Próximo orden: escoger versión canónica del tutor y reunir evidencia visual verificable de los dos frontends.
+- Preferencia persistente del usuario: no activar «Notificar a tu red» ni crear publicaciones de actualización.
+- Destacados de LinkedIn: falló la carga de vista previa tanto del perfil GitHub como del repositorio de perfil; Guardar permaneció deshabilitado. No se creó la tarjeta.

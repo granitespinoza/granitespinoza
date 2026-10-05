@@ -30,7 +30,7 @@ These repositories showcase academic and demonstration projects alongside my pro
 | :--- | :--- |
 | [UTEC Diagram](https://github.com/granitespinoza/UTECdiagram) | Cloud Computing hackathon project with a React + TypeScript frontend. |
 | [Django Quality Demo](https://github.com/granitespinoza/django-quality-demo) | A quality-engineering demonstration using Django, pytest, coverage, SonarQube and Docker. |
-| [Cine Frontend](https://github.com/granitespinoza/frontend) | A CS2032 frontend designed to run on S3 and consume microservices. |
+| [Educational Writing Tutor](https://github.com/granitespinoza/tutor-ai-final-v-2-4-5) | A React + TypeScript frontend prototype with student and teacher dashboards using simulated data. |
 
 ### How I build
 
