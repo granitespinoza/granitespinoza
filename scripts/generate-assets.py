@@ -40,11 +40,11 @@ for theme, bg, fg, muted in [('dark', '#101827', '#f1f5f9', '#a9b7c9'), ('light'
 # LinkedIn cover: leave the lower-left area clear for the profile photo.
 im = Image.new('RGB', (1584, 396), '#101827')
 d = ImageDraw.Draw(im)
-d.line((560, 62, 650, 62), fill='#26b8c6', width=5)
-d.text((560, 90), 'GRANIT ESPINOZA SALAZAR', font=font(25), fill='#a9b7c9')
-d.text((560, 135), 'Software Engineer', font=font(48), fill='#f1f5f9')
-d.text((560, 190), '& Product Builder.', font=font(48), fill='#f1f5f9')
-d.text((560, 266), 'Full-stack  /  SaaS  /  Digital Health', font=font(25), fill='#a9b7c9')
+d.line((620, 62, 710, 62), fill='#26b8c6', width=5)
+d.text((620, 90), 'GRANIT ESPINOZA SALAZAR', font=font(25), fill='#a9b7c9')
+d.text((620, 135), 'Software Engineer', font=font(48), fill='#f1f5f9')
+d.text((620, 190), '& Product Builder.', font=font(48), fill='#f1f5f9')
+d.text((620, 266), 'Full-stack  /  SaaS  /  Digital Health', font=font(25), fill='#a9b7c9')
 for y, label in [(85, 'PRODUCT'), (175, 'SERVICES'), (265, 'DATA')]:
     d.rounded_rectangle((1295, y, 1515, y+58), radius=12, outline='#26b8c6', width=2)
     d.text((1405, y+29), label, anchor='mm', font=font(20), fill='#f1f5f9')

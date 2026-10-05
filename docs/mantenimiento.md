@@ -27,3 +27,7 @@ La sección Acerca de actual ya es coherente. Agregar tres elementos en Destacad
 Experiencia y stack: perfil de LinkedIn proporcionado por el usuario y leído con su sesión iniciada. Proyectos: API pública de GitHub. Inspiración estructural: https://github.com/macu-dev/macu-dev. No se copió código ni imágenes: GitHub no identificó una licencia del repositorio de referencia. Los gráficos de este perfil son originales.
 
 Entrada anterior: sin bio ni README de perfil; repositorio granitespinoza/granitespinoza no existía. No se publican métricas de experiencia, cobertura o impacto sin verificar.
+
+## Resultado de publicación
+
+README público publicado en granitespinoza/granitespinoza y comprobado visualmente en el perfil. Portada original aplicada a LinkedIn; margen de texto aumentado tras revisar la vista móvil. Descripciones de UTECdiagram y django-quality-demo actualizadas. La biografía lateral y el enlace de GitHub siguen pendientes: la conexión CLI no tiene scope user (PATCH /user rechazado). No se amplió el permiso. La selección de repositorios fijados y Destacados en LinkedIn queda pendiente.
