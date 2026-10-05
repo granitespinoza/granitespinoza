@@ -31,3 +31,5 @@ Entrada anterior: sin bio ni README de perfil; repositorio granitespinoza/granit
 ## Resultado de publicación
 
 README público publicado en granitespinoza/granitespinoza y comprobado visualmente en el perfil. Portada original aplicada a LinkedIn; margen de texto aumentado tras revisar la vista móvil. Descripciones de UTECdiagram y django-quality-demo actualizadas. La biografía lateral y el enlace de GitHub siguen pendientes: la conexión CLI no tiene scope user (PATCH /user rechazado). No se amplió el permiso. La selección de repositorios fijados y Destacados en LinkedIn queda pendiente.
+
+Preferencia del usuario (2026-10-05): portada de LinkedIn más modesta y profesional. Se sustituyó la portada tipográfica por un fondo original azul/gris sin texto ni diagramas, assets/linkedin-cover-modest.png. Es una imagen generada; el generador Python conserva la variante anterior y no reproduce esta imagen. El banner de GitHub no cambia.
